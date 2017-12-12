@@ -2,7 +2,7 @@
 
 ## Installation
 
-`npm install s3 --save`
+
 
 ## Features
 
